@@ -1,0 +1,39 @@
+Company: League of Legends
+
+Language: Erlang and C (both open source)
+
+Frameworks: Ejabberd (open source), Riak (partially open source), Graphite, Zabbix
+
+Deploy: Jenkins and Confluence (version control unknown), Hot Code Deploy
+
+CDN: No (chat doesn't need one)
+
+Usage:
+  - 67M Unique Players per Month
+  - 27M Daily Players
+  - 7.5M Concurrent Players
+  - 1B Events per day on server
+  - 11K Messages per second
+  - 5 9's uptime
+
+Unique Elements:
+  - Functional Programming
+  - Server Infra Managed by only 3 people
+  - Let it Crash Philosophy
+  - Hot Code Deploy
+  - CRDT Database
+
+Other Facts:
+  - Built on Open Source, modified for performance and custom use case
+  - Database built for time series data
+  - Migrated from MySQL to Riak due to performance and scaling issues
+
+Citations:
+
+CRDT's: http://hal.upmc.fr/file/index/docid/555588/filename/techreport.pdf
+
+Architecture Presentation: https://www.youtube.com/watch?v=_jsMpmWaq7I
+
+Riak: http://basho.com/products/riak-kv/
+
+Ejabberd: https://www.ejabberd.im/
