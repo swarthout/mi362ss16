@@ -1,0 +1,7 @@
+Completed Items:
+100 - Hosted on Heroku: Heroku url is web-admin-chat.herokuapp.com
+100 - Custom domain name: Custom url is web-admin-chat.ignorelist.com
+600 - Custom Programming: This project was made with Node.js and Angular and is mostly programming.
+100 - Heroku Add-on: This project uses the mLab MongoDB add-on for the database
+50 - non-Heroku 3rd party widget: This project integrates with Github for sign-in and user profile information
+50 - 3rd party font icon: This project uses the Materialize font icon set
